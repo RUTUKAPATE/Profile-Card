@@ -39,14 +39,14 @@ avatar: $assets.files.images.image-victor.jpg
 no: 26
 city: London
 name1: Followers
-link1: www.instagram.com
+link1: https://www.instagram.com/rutukapate/followers/
 no1: 80K
 name2: Likes
-link2: www.instagram.com
+link2: https://www.instagram.com/rutukapate/
 no2: 803K
 name3: Photos
 no3: 1.4K
-link3: www.instagram.com
+link3: https://www.instagram.com/rutukapate/
 
 -- end: ftd.container
 
