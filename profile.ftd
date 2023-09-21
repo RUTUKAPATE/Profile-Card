@@ -12,10 +12,13 @@ string no:
 string city:
 string name1:
 string no1:
+string link1:
 string name2:
 string no2:
+string link2:
 string name3:
 string no3:
+string link3:
 ftd.image-src bg-card:
 ftd.image-src avatar:
 optional ftd.responsive-type role:
@@ -72,6 +75,7 @@ align-content: center
 margin-top.px: 30
 margin-bottom.px: 30
 width: fill-container
+link: $profile-card.link1
 
 -- ftd.text: $profile-card.no1
 style: bold
@@ -89,6 +93,7 @@ align-content: center
 margin-top.px: 30
 margin-bottom.px: 30
 width: fill-container
+link: $profile-card.link2
 
 -- ftd.text: $profile-card.no2
 style: bold
@@ -106,6 +111,7 @@ align-content: center
 margin-top.px: 30
 margin-bottom.px: 30
 width: fill-container
+link: $profile-card.link3
 
 -- ftd.text: $profile-card.no3
 style: bold
