@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: rutukapate.github.io/profile-card
-favicon: /-/rutukapate.github.io/profile-card/favicon.ico
+;;favicon: /-/rutukapate.github.io/profile-card/favicon.ico
 zip: github.com/rutukapate/Profile-Card/archive/refs/heads/main.zip
 
 -- fastn.dependency: rutukapate.github.io/Kumbh-Sans-Typography
