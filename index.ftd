@@ -7,10 +7,6 @@
 -- ftd.container: 
 width: fill-container
 height: fill-container
-;;padding-left.px: 40
-;;padding-right.px: 40
-;;padding-top.px: 60
-;;padding-bottom.px: 60
 
 -- ftd.container:
 background.solid: #19A2AE
