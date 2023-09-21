@@ -23,6 +23,7 @@ optional ftd.responsive-type role:
 -- ftd.column:
 width: fill-container
 border-radius.px: 10
+overflow-x: hidden
 
 -- ftd.image: $profile-card.bg-card
 

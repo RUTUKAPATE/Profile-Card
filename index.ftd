@@ -16,8 +16,7 @@ height: fill-container
 background.solid: #19A2AE
 width: fill-container
 height: fill-container
-overflow-x: hidden
-overflow-y: hidden
+overflow: hidden
 
 -- ftd.column:
 align-content: center
