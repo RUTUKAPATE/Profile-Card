@@ -8,5 +8,5 @@ zip: github.com/fifthtry/Kumbh-Sans-Typography/archive/refs/heads/main.zip
 -- fastn.dependency: rutukapate.github.io/Kumbh-Sans-Typography
 
 ;;-- fastn.auto-import: rutukapate.github.io/profile-card/FASTN/ds
-;;-- fastn.auto-import: rutukapate.github.io/profile-card/assets
-
+-- fastn.auto-import: rutukapate.github.io/profile-card/assets
+-- fastn.auto-import: rutukapate.gihub.io/Kumbh-Sans-Typography/assets
