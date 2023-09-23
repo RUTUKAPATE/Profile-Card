@@ -3,7 +3,7 @@
 
 -- ftd.type dtype:
 weight: 400
-font-family: $assets.fonts.Kumbh-Sans
+font-family: Kumbh-Sans
 size.px: 18 
 
 -- component profile-card:
