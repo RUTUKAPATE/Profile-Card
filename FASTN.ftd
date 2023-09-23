@@ -6,7 +6,7 @@ zip: github.com/rutukapate/Profile-Card/archive/refs/heads/main.zip
 -- fastn.dependency: rutukapate.github.io/Kumbh-Sans-Typography
 
 -- fastn.auto-import: rutukapate.github.io/profile-card/assets
-
+-- fastn.auto-import: rutukapate.github.io/Kumbh-Sans-Typography/assets
 
 -- fastn.font: Kumbh-Sans
 style: normal
