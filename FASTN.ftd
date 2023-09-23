@@ -1,8 +1,6 @@
 -- import: fastn
 
 -- fastn.package: rutukapate.github.io/profile-card
-zip: github.com/rutukapate/Profile-Card/archive/refs/heads/main.zip
-zip: github.com/fifthtry/Kumbh-Sans-Typography/archive/refs/heads/main.zip
 
 -- fastn.dependency: rutukapate.github.io/Kumbh-Sans-Typography
 
